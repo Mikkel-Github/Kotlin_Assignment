@@ -1,0 +1,37 @@
+com.example.assignmenttemplate.app-core-1.8.0-0 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\039d7275aec7e774b236a91f016b482a\transformed\core-1.8.0\res
+com.example.assignmenttemplate.app-lifecycle-livedata-core-2.5.1-1 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\09f77b64f1c2de4dd3d0f028a78ebe88\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.assignmenttemplate.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-2 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\11418bb63e6d85e3ccbcb4d88e90fe3e\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.assignmenttemplate.app-jetified-annotation-experimental-1.1.0-3 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\13e848e12d61f5d0128508e390b319bf\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.assignmenttemplate.app-jetified-appcompat-resources-1.4.0-4 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\144c9d8c63bf8dc6decc1d6f224ce9ba\transformed\jetified-appcompat-resources-1.4.0\res
+com.example.assignmenttemplate.app-lifecycle-runtime-2.5.1-5 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\1803b04e4b6427255338752501efe6c0\transformed\lifecycle-runtime-2.5.1\res
+com.example.assignmenttemplate.app-jetified-lifecycle-livedata-core-ktx-2.5.1-6 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\1eea8081a74f23f7194102ec367f9662\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\res
+com.example.assignmenttemplate.app-jetified-emoji2-views-helper-1.0.0-7 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\3b8fdc86e3aa42052a31b5fd36495d7d\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.example.assignmenttemplate.app-jetified-core-ktx-1.7.0-8 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\3eb1f1c76937b1921e86f0244f1d42a3\transformed\jetified-core-ktx-1.7.0\res
+com.example.assignmenttemplate.app-cardview-1.0.0-9 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\42ac5dc91711a7a364c0a908d2497e33\transformed\cardview-1.0.0\res
+com.example.assignmenttemplate.app-jetified-lifecycle-viewmodel-ktx-2.5.1-10 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\4b47a6fa21c02aa3093bc2c11e522422\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\res
+com.example.assignmenttemplate.app-jetified-activity-1.5.1-11 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\4d715daec90f98b3bc8c5a51fae53eb2\transformed\jetified-activity-1.5.1\res
+com.example.assignmenttemplate.app-jetified-viewpager2-1.0.0-12 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\5020efa4c8d9000183e7a6c1e9a44419\transformed\jetified-viewpager2-1.0.0\res
+com.example.assignmenttemplate.app-jetified-activity-ktx-1.5.1-13 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\65a778551599e0f419c782730d0a0597\transformed\jetified-activity-ktx-1.5.1\res
+com.example.assignmenttemplate.app-recyclerview-1.2.1-14 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\6b09b77b05a8e6362e66cb8d93e625e5\transformed\recyclerview-1.2.1\res
+com.example.assignmenttemplate.app-material-1.4.0-15 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\6ee9847b4a54528d03b9596a94ae4e77\transformed\material-1.4.0\res
+com.example.assignmenttemplate.app-jetified-lifecycle-runtime-ktx-2.5.1-16 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\72d12701e2eb42efeeaa28c83bbda7bd\transformed\jetified-lifecycle-runtime-ktx-2.5.1\res
+com.example.assignmenttemplate.app-jetified-fragment-ktx-1.5.3-17 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\7a8db6ec41e409502ec8468421f8c8dc\transformed\jetified-fragment-ktx-1.5.3\res
+com.example.assignmenttemplate.app-jetified-emoji2-1.0.0-18 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\7d9e1998cae43799c5633250f8bab581\transformed\jetified-emoji2-1.0.0\res
+com.example.assignmenttemplate.app-coordinatorlayout-1.1.0-19 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\81e26d89aebc56875bf43d055f4069ea\transformed\coordinatorlayout-1.1.0\res
+com.example.assignmenttemplate.app-lifecycle-viewmodel-2.5.1-20 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\946b3e1412211168c8feb325519edbb8\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.assignmenttemplate.app-jetified-savedstate-1.2.0-21 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\9920f3bbcb2a3b1baf44118f99ae9a9a\transformed\jetified-savedstate-1.2.0\res
+com.example.assignmenttemplate.app-jetified-savedstate-ktx-1.2.0-22 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\a23c06edab6e7f3d12ddce37353841a4\transformed\jetified-savedstate-ktx-1.2.0\res
+com.example.assignmenttemplate.app-appcompat-1.4.0-23 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\a50e5ece9d6b0e53cd2e1870e776fcbb\transformed\appcompat-1.4.0\res
+com.example.assignmenttemplate.app-jetified-startup-runtime-1.0.0-24 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\b9aadf6c8c443154dd49adec1de53104\transformed\jetified-startup-runtime-1.0.0\res
+com.example.assignmenttemplate.app-constraintlayout-2.1.2-25 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\bc108668126dc92f36c47085f3ead7a5\transformed\constraintlayout-2.1.2\res
+com.example.assignmenttemplate.app-fragment-1.5.3-26 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\e97d3d2d5ee2a73f2fd1c0d9fb394c34\transformed\fragment-1.5.3\res
+com.example.assignmenttemplate.app-jetified-lifecycle-process-2.4.0-27 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\f31362c02a297444e984c95c5e08984c\transformed\jetified-lifecycle-process-2.4.0\res
+com.example.assignmenttemplate.app-transition-1.2.0-28 C:\Users\Mikkel P Larsen\.gradle\caches\transforms-3\fddb2b1079c83024d95edca4518fd782\transformed\transition-1.2.0\res
+com.example.assignmenttemplate.app-pngs-29 C:\Users\Mikkel P Larsen\Documents\5. Semester\Mobile Software Development\Final Submission - Mikkl20\Kotlin\AssignmentTemplate\app\build\generated\res\pngs\debug
+com.example.assignmenttemplate.app-resValues-30 C:\Users\Mikkel P Larsen\Documents\5. Semester\Mobile Software Development\Final Submission - Mikkl20\Kotlin\AssignmentTemplate\app\build\generated\res\resValues\debug
+com.example.assignmenttemplate.app-rs-31 C:\Users\Mikkel P Larsen\Documents\5. Semester\Mobile Software Development\Final Submission - Mikkl20\Kotlin\AssignmentTemplate\app\build\generated\res\rs\debug
+com.example.assignmenttemplate.app-mergeDebugResources-32 C:\Users\Mikkel P Larsen\Documents\5. Semester\Mobile Software Development\Final Submission - Mikkl20\Kotlin\AssignmentTemplate\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.assignmenttemplate.app-mergeDebugResources-33 C:\Users\Mikkel P Larsen\Documents\5. Semester\Mobile Software Development\Final Submission - Mikkl20\Kotlin\AssignmentTemplate\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.assignmenttemplate.app-merged_res-34 C:\Users\Mikkel P Larsen\Documents\5. Semester\Mobile Software Development\Final Submission - Mikkl20\Kotlin\AssignmentTemplate\app\build\intermediates\merged_res\debug
+com.example.assignmenttemplate.app-debug-35 C:\Users\Mikkel P Larsen\Documents\5. Semester\Mobile Software Development\Final Submission - Mikkl20\Kotlin\AssignmentTemplate\app\src\debug\res
+com.example.assignmenttemplate.app-main-36 C:\Users\Mikkel P Larsen\Documents\5. Semester\Mobile Software Development\Final Submission - Mikkl20\Kotlin\AssignmentTemplate\app\src\main\res

@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-mdpi_shrek.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-mdpi/shrek.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-ldpi_ryan.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-ldpi/ryan.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-ldpi_shrek.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-ldpi/shrek.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/layout_moviefragmentlayout.xml.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/layout/moviefragmentlayout.xml"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-xhdpi_shrek.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-xhdpi/shrek.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-ldpi_djangounchained.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-ldpi/djangounchained.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-xhdpi_bullettrain.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-xhdpi/bullettrain.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-mdpi_getout.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-mdpi/getout.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-mdpi_ryan.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-mdpi/ryan.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-mdpi_djangounchained.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-mdpi/djangounchained.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/raw_moviedata.JSON.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/raw/moviedata.JSON"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-ldpi_gladiator.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-ldpi/gladiator.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-mdpi_bullettrain.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-mdpi/bullettrain.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/layout_movie_activity.xml.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/layout/movie_activity.xml"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-xhdpi_getout.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-xhdpi/getout.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-xhdpi_pulpfiction.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-xhdpi/pulpfiction.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/layout_movie_item.xml.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/layout/movie_item.xml"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-ldpi_bullettrain.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-ldpi/bullettrain.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-xhdpi_ryan.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-xhdpi/ryan.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-ldpi_pulpfiction.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-ldpi/pulpfiction.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-mdpi_pulpfiction.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-mdpi/pulpfiction.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-xhdpi_djangounchained.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-xhdpi/djangounchained.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-mdpi_gladiator.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-mdpi/gladiator.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-ldpi_getout.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-ldpi/getout.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/drawable-xhdpi_gladiator.png.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/drawable-xhdpi/gladiator.png"
+    },
+    {
+        "merged": "com.example.assignmenttemplate.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.assignmenttemplate.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]

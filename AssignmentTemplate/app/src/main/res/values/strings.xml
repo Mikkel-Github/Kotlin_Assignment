@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieGuide</string>
+    <string name="genre_title">Genres:</string>'
+    <string name="description_title">Description:</string>
+</resources>
